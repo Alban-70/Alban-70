@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 I’m currently working in full stack development as a 2nd-year Computer Science student (BUT Informatique) at Marie & Louis Pasteur University in Belfort <br>📚 I’m currently learning VueJS and Node.js <br>🔎 About me: passionate about innovation, teamwork, and building useful solutions <br>🎲 Fun fact: I can spend hours debugging… only to realize it was just a missing comma 😅 <br>
+👨‍🎓 I’m currently working in full stack development as a 2nd-year Computer Science student (BUT Informatique) at Marie & Louis Pasteur University in Belfort <br>📚 I’m currently learning web development with VueJS and Node.js, working with databases using MySQL, and building applications with Java <br>🔎 About me: passionate about innovation, teamwork, and building useful solutions <br>🎲 Fun fact: I can spend hours debugging… only to realize it was just a missing comma 😅 <br>
 
 
 ## 🌐 Socials:
