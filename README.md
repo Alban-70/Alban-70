@@ -10,7 +10,7 @@
 
 ## 🛠️ My Projects
 
-- [*Quixo Game**](https://github.com/tonpseudo/quixo)  
+- [**Quixo Game**](https://github.com/tonpseudo/quixo)  
   Developed in a team of 5 as a Java application.  
   🎮 Versions:  
     - **Console version**: turn-based gameplay, board management, win detection  
