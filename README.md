@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 Je travaille actuellement dans le développement full stack en BUT Informatique (2ᵉ année) à l'université Marie & Louis Pasteur de Belfort<br>📚 Je suis en train d'apprendre VueJS, Node.js <br>🔎 À propos : passionné par l’innovation, le travail en équipe et la création de solutions utiles  <br>🎲 Fun fact : je suis capable de passer des heures à débugger… pour découvrir que c’était une virgule manquante 😅 <br>
+👨‍🎓 I’m currently working in full stack development as a 2nd-year Computer Science student (BUT Informatique) at Marie & Louis Pasteur University in Belfort <br>📚 I’m currently learning VueJS and Node.js <br>🔎 About me: passionate about innovation, teamwork, and building useful solutions <br>🎲 Fun fact: I can spend hours debugging… only to realize it was just a missing comma 😅 <br>
 
 
 ## 🌐 Socials:
