@@ -27,6 +27,15 @@
     - Stock management and product administration for admins  
   🧑‍💻 **Technologies:** Python, Flask, MySQL, HTML, CSS
 
+- [**Sport App**](https://github.com/Alban-70/sportapp)  
+  Developed entirely solo in JavaFX with a database.  
+  🏋️ **Features:**  
+    - User profiles with personal information and stats  
+    - Random daily workout generation  
+    - Tracking of completed workouts  
+  🧑‍💻 **Technologies:** Java, JavaFX, MySQL
+
+
 
 
 
