@@ -10,14 +10,14 @@
 
 ## 🛠️ My Projects
 
-- [**Quixo Game**](https://github.com/Natan90/Quixo)  
+- [**Quixo Game**](https://github.com/Alban-70/Quixo)
   Developed in a team of 5 as a Java application.  
   🎮 **Versions:**  
     - Console: turn-based gameplay, board management, win detection  
     - JavaFX: graphical interface, interactive board, improved UX  
   🧑‍💻 **Technologies:** Java, JavaFX
 
-- [**E-Commerce Website**](https://github.com/Suzdeloffre/SAE2-3.4.5)  
+- [**E-Commerce Website**](https://github.com/Alban-70/Ecommerce_Project)  
   Developed as a team project in Flask.  
   🛒 **Features:**  
     - Product catalog for browsing and searching headphones  
