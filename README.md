@@ -1,3 +1,4 @@
+![Alban Choulet - Full Stack Developer](banner.png)
 # Hi, I'm Alban 👋
 
 🎓 **Third-year Computer Science Student | Full-Stack Developer**
