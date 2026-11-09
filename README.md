@@ -18,7 +18,6 @@ I'm a third-year Computer Science student (BUT Informatique) at Marie and Louis 
 
 [LinkedIn](https://www.linkedin.com/in/alban-choulet-542072352/) · [Email](mailto:alban.choulet1@gmail.com)
 
----
 
 ## 🛠️ Tech Stack
 
