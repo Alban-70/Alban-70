@@ -12,7 +12,7 @@ I'm a third-year Computer Science student (BUT Informatique) at Marie and Louis 
 
 📌 **Looking for a 14–16-week internship starting January 25, 2027.**
 
----
+
 
 ## 🌐 Connect with me
 
