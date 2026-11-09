@@ -1,47 +1,106 @@
-# 💫 About Me:
-👨‍🎓 I’m currently working in full stack development as a 2nd-year Computer Science student (BUT Informatique) at Marie & Louis Pasteur University in Belfort <br>📚 I’m currently learning web development with VueJS and Node.js, working with databases using MySQL, and building applications with Java <br>🔎 About me: passionate about innovation, teamwork, and building useful solutions <br>🎲 Fun fact: I can spend hours debugging… only to realize it was just a missing comma 😅 <br>
+# Hi, I'm Alban 👋
 
+🎓 **Third-year Computer Science Student | Full-Stack Developer**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alban-choulet-542072352/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alban.choulet1@gmail.com) 
+I'm a third-year Computer Science student (BUT Informatique) at Marie and Louis Pasteur University in Belfort, France.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)<br> ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)<br> ![MYSQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)<br> ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+💼 I have experience in web development through academic projects and a professional internship, working with both frontend and backend technologies.
 
-## 🛠️ My Projects
+🚀 I'm particularly interested in full-stack development, software engineering and building useful applications.
 
-- [**Quixo Game**](https://github.com/Alban-70/Quixo)
-  Developed in a team of 5 as a Java application.  
-  🎮 **Versions:**  
-    - Console: turn-based gameplay, board management, win detection  
-    - JavaFX: graphical interface, interactive board, improved UX  
-  🧑‍💻 **Technologies:** Java, JavaFX
+🌍 Currently participating in an international Erasmus+ program focused on mobile development with Flutter.
 
-- [**E-Commerce Website**](https://github.com/Alban-70/Ecommerce_Project)  
-  Developed as a team project in Flask.  
-  🛒 **Features:**  
-    - Product catalog for browsing and searching headphones  
-    - Shopping cart and order creation for customers  
-    - Customer reviews and ratings for products  
-    - Address management for delivery  
-    - Stock management and product administration for admins  
-  🧑‍💻 **Technologies:** Python, Flask, MySQL, HTML, CSS
+📌 **Looking for a 14–16-week internship starting January 25, 2027.**
 
-- [**Sport App**](https://github.com/Alban-70/sportapp)  
-  Developed entirely solo in JavaFX with a database.  
-  🏋️ **Features:**  
-    - User profiles with personal information and stats  
-    - Random daily workout generation  
-    - Tracking of completed workouts  
-  🧑‍💻 **Technologies:** Java, JavaFX, MySQL
+---
 
+## 🛠️ Tech Stack
 
+**Languages**
+Java · JavaScript · Python · PHP
 
+**Frontend**
+HTML · CSS · Vue.js · JavaFX
 
+**Backend**
+Node.js · Flask
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Alban-70&theme=transparent&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Alban-70&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alban-70&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**Databases**
+MySQL · PostgreSQL · Firebase · Supabase
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Mobile Development**
+Flutter
+
+**Tools**
+Git · GitHub · Bash
+
+---
+
+## 🚀 Featured Projects
+
+### 🏐 [Mintonette Cup](https://github.com/Alban-70/Mintonette-Cup)
+
+A full-stack web application designed to manage a volleyball tournament, developed as part of a university team project.
+
+**Key Features**
+- Team and player management.
+- Match organization and management.
+- Score and result tracking.
+- Tournament groups and rankings.
+- User accounts and authentication.
+- Administration dashboard.
+
+**Project Context:** University team project (5 students), October 2025 – March 2026.
+**Technologies:** Vue.js · Node.js · MySQL
+
+---
+
+### 🎮 [Quixo Game](https://github.com/Alban-70/Quixo)
+
+A Java implementation of the Quixo board game, featuring both a console-based version and a graphical interface.
+
+**Key Features**
+- Turn-based gameplay and board management.
+- Game logic and win detection.
+- Console-based game interface.
+- Interactive JavaFX graphical interface.
+
+**Project Context:** University team project (5 students).
+**Technologies:** Java · JavaFX
+
+---
+
+### 🛒 [E-Commerce Website](https://github.com/Alban-70/Ecommerce_Project)
+
+A web-based e-commerce application designed for browsing and purchasing headphones, developed as part of a university team project.
+
+**Key Features**
+- Product catalog with browsing and search functionality.
+- Shopping cart and order management.
+- Customer reviews and product ratings.
+- Delivery address management.
+- Administration interface for product and stock management.
+
+**Project Context:** University team project.
+**Technologies:** Python · Flask · MySQL · HTML · CSS
+
+---
+
+### 🏋️ [Sport App](https://github.com/Alban-70/sportapp)
+
+A desktop application designed to help users manage their personal workout routines and track their fitness progress.
+
+**Key Features**
+- User profiles and personal statistics.
+- Random daily workout generation.
+- Workout history and progress tracking.
+- Database integration for storing user information and workout data.
+
+**Project Context:** Personal project, independently designed and developed.
+**Technologies:** Java · JavaFX · MySQL
+
+---
+
+## 🌐 Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/alban-choulet-542072352/) · [Email](mailto:alban.choulet1@gmail.com)
