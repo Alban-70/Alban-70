@@ -14,6 +14,12 @@ I'm a third-year Computer Science student (BUT Informatique) at Marie and Louis 
 
 ---
 
+## 🌐 Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/alban-choulet-542072352/) · [Email](mailto:alban.choulet1@gmail.com)
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -98,9 +104,3 @@ A desktop application designed to help users manage their personal workout routi
 
 **Project Context:** Personal project, independently designed and developed.
 **Technologies:** Java · JavaFX · MySQL
-
----
-
-## 🌐 Connect with me
-
-[LinkedIn](https://www.linkedin.com/in/alban-choulet-542072352/) · [Email](mailto:alban.choulet1@gmail.com)
